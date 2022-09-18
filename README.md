@@ -1,2 +1,3 @@
 # GrowShop-Site
+Coming Soon!
 
